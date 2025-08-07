@@ -64,7 +64,7 @@ The system builds on mBART-50, a multilingual sequence-to-sequence transformer p
 | ChrF             | 58.1             | 56.9       |
 | Inference Speed   | 42 tokens/sec (RTX 3090) |
 
-![Training Metrics]([docs/images/training_curve.png](https://github.com/mabroukaymen1/tunisian_english/blob/main/plots/training_metrics.png))
+![Training Metrics]([blob/main/plots/training_metrics.png))
 
 ## 🛠️ Installation
 
