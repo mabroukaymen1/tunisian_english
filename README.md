@@ -74,7 +74,7 @@ The system builds on mBART-50, a multilingual sequence-to-sequence transformer p
 
 ### Setup
 ```bash
-git clone https://github.com/mabroukaymen1/tunisian-translate-ai-model.git
+git clone https://github.com/mabroukaymen1/tunisian_english.git
 cd tunisian-translator
 
 # Create and activate environment
